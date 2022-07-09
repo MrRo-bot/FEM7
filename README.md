@@ -14,7 +14,7 @@
 
 ## Overview
 
-Created NEWBIE testimonial section.
+Created JUNIOR testimonial section.
 
 ### The challenge
 
