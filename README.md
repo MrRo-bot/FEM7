@@ -26,7 +26,7 @@ Using Grid-template-areas properly according to media queries.
 
 ### Links
 
-- GITHUB REPO: [https://github.com/MrRo-bot/testimonials-grid-section-main]
+- GITHUB REPO: [https://github.com/MrRo-bot/testimonial-grid-section-main]
 - Solution URL: [https://codepen.io/Mr-RO13OT/full/wvgRdOw]
 
 ## My process
