@@ -14,7 +14,7 @@
 
 ## Overview
 
-Creating a testimonial section.
+Created NEWBIE testimonial section.
 
 ### The challenge
 
@@ -26,8 +26,8 @@ Using Grid-template-areas properly according to media queries.
 
 ### Links
 
-- GITHUB REPO: [https://github.com/MrRo-bot/FEM7]
-- Solution URL: [https://codepen.io/Mr-RO13OT/pen/wvgRdOw]
+- GITHUB REPO: [https://github.com/MrRo-bot/testimonials-grid-section-main]
+- Solution URL: [https://codepen.io/Mr-RO13OT/full/wvgRdOw]
 
 ## My process
 
